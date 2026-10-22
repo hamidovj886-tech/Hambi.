@@ -1,0 +1,17 @@
+HAMBI LITE — TO‘LIQ ANDROID JAVA LOYIHASI
+
+GitHub’ga yuklash: ZIPni oching va ichidagi BARCHA fayl/papkalarni (jumladan .github va app papkalarini) repozitoriyaning root qismiga joylashtiring. Papkalar tuzilishini saqlang. ZIP faylning o‘zini repoga tashlamang.
+
+Kutiladigan muhim yo‘llar:
+- settings.gradle
+- build.gradle
+- gradle.properties
+- app/build.gradle
+- app/src/main/AndroidManifest.xml
+- app/src/main/java/uz/hambilite/app/MainActivity.java
+- app/src/main/res/values/styles.xml
+- .github/workflows/build-apk.yml
+
+GitHub Actions → Build Hambi Lite APK → Run workflow. Yashil bo‘lsa, run sahifasidagi Artifacts → Hambi-Lite-APK orqali app-debug.apk ni yuklab oling.
+
+Eslatma: bu demo UI. Operatorning haqiqiy balans/tarif ma’lumotlari operatorning ruxsatli API yoki akkauntiga ulanmaguncha olinmaydi.
